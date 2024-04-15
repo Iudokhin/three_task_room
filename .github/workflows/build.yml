@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: Build and Deploy_v.2
 
 on:
   push:
